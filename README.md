@@ -2,6 +2,9 @@
 
 A first-principles comparative study evaluating parametric linear models against non-parametric tree architectures on the standard **Kaggle Titanic Benchmark Dataset** ($n_{\text{train}} = 891$, $n_{\text{test}} = 418$).
 
+- 📄 [Read the writeup](Titanic_ML_Project.pdf) — full mathematical derivations, loss convexity proofs, and information gain properties.
+- 📓 [Explore the notebook](titanic_classification.ipynb) — complete Python implementation, model training, feature importance, and test set predictions.
+
 ---
 
 ## 📊 Summary of Results
